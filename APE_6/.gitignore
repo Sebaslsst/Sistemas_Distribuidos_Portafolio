@@ -1,0 +1,14 @@
+# Archivos generados por Maven
+target/
+
+# Registros de ejecución
+*.log
+
+# Configuración local del IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales
+*.tmp
+.DS_Store
