@@ -5,6 +5,9 @@ Repositorio académico de las prácticas desarrolladas en la asignatura de **Sis
 
 Las actividades abarcan comunicación cliente-servidor, concurrencia, comunicación entre procesos, arquitectura distribuida, mensajería asíncrona y desarrollo de servicios utilizando Python, Java, Spring Boot, MQTT y RabbitMQ.
 
+## Link con los reportes de las prácticas
+https://drive.google.com/drive/folders/1E5HgL2HcdklDPPOi2DqGj6l1P2xhos7a?usp=sharing
+
 ## Prácticas desarrolladas
 
 ### APE 2 - Comunicación cliente-servidor
@@ -103,7 +106,7 @@ Documentar las actividades práctico-experimentales desarrolladas durante la asi
 
 ## Autor
 
-**Sebastián**  
+**Leonardo Sebastian Sámchez Torres**  
 Carrera de Computación  
 Universidad Nacional de Loja
 
@@ -112,3 +115,4 @@ Universidad Nacional de Loja
 Este repositorio contiene proyectos desarrollados con fines académicos. Algunas actividades corresponden a trabajos grupales y otras a implementaciones individuales.
 
 El código y los archivos de configuración se encuentran organizados por práctica para facilitar su revisión y ejecución.
+
