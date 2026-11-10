@@ -1,0 +1,13 @@
+# Bases de datos locales
+*.db
+*.db-journal
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Variables de entorno y registros
+.env
+*.log
